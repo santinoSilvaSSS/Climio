@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="144">
+
+    <!-- Sol Anaranjado de Fondo -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M38,42 C38,24.3 52.3,10 70,10 C87.7,10 102,24.3 102,42 C102,59.7 87.7,74 70,74 C52.3,74 38,59.7 38,42 Z" />
+
+    <!-- Nube Principal Blanca/Gris Clara al Frente -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M98.4,46.2 C94.9,28.6 79.5,15.6 61,15.6 C46.2,15.6 33.5,24 27.2,36.3 C11.9,37.9 0,50.8 0,66.8 C0,84.5 13.7,98.8 30.7,98.8 L97.3,98.8 C111.4,98.8 122.8,87.3 122.8,73.2 C122.8,59.7 112.3,48.8 98.4,46.2 Z" />
+
+</vector>

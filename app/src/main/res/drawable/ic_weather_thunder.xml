@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="144">
+
+    <!-- Nube Gris Oscuro de Tormenta -->
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M98.4,46.2 C94.9,28.6 79.5,15.6 61,15.6 C46.2,15.6 33.5,24 27.2,36.3 C11.9,37.9 0,50.8 0,66.8 C0,84.5 13.7,98.8 30.7,98.8 L97.3,98.8 C111.4,98.8 122.8,87.3 122.8,73.2 C122.8,59.7 112.3,48.8 98.4,46.2 Z" />
+
+    <!-- Rayo Dorado Brillante -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M64,90 L52,112 L62,112 L54,136 L76,110 L64,110 Z" />
+
+    <!-- 1 Gota Azul -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M32,104 C26,104 22,108.5 22,113 C22,118 32,128 32,128 C32,128 42,118 42,113 C42,108.5 38,104 32,104 Z" />
+
+</vector>

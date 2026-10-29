@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="144">
+
+    <!-- Círculo Central del Sol Anaranjado -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M64,38 C47.4,38 34,51.4 34,68 C34,84.6 47.4,98 64,98 C80.6,98 94,84.6 94,68 C94,51.4 80.6,38 64,38 Z" />
+
+    <!-- Rayos Radiantes del Sol Anaranjado -->
+    <path
+        android:strokeColor="#FF9800"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M64,18 L64,28 M64,108 L64,118 M14,68 L24,68 M104,68 L114,68 M28.6,32.6 L35.7,39.7 M92.3,96.3 L99.4,103.4 M28.6,103.4 L35.7,96.3 M92.3,39.7 L99.4,32.6" />
+
+</vector>
